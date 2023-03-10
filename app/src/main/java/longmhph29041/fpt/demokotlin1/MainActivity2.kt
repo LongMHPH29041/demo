@@ -12,5 +12,6 @@ class MainActivity2 : AppCompatActivity() {
         setContentView(binding.root)
 
 // hello kotlin
+        //heloo 2
     }
 }
